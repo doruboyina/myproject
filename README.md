@@ -1,2 +1,2 @@
 # myproject
-to test code
+My Static Web Page
